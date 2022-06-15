@@ -20,6 +20,7 @@
 #### File folder: Shell Energy Data Engineering Test
 #### File name: 
         *Data_Inspection&Transformation.ipynb
+        *Data_Inspection&Transformation.py
 
 
 # Analysis 
